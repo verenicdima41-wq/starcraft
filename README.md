@@ -58,7 +58,7 @@
 <h2 align="center">🏆 ~ THANKS FOR VISITING ~ 🏆</h2>
 
 <div align="center">
-  <img src="https://media.tenor.com/nHjL71BhLOgAAAAC/sleeping-cat.gif" width="420">
+  <img src="https://tenor.com/ru/view/viking-starcraft2-sc2-terran-transform-gif-16655427" width="420">
   <br><br>
   <p><b>"You must construct additional pylons."</b></p>
 </div>
