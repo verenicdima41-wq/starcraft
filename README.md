@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://tenor.com/bvmcJ.gif" width="480" alt="SC2">
+  <img src="https://media.tenor.com/17337804/starcraft-bongo-cat.gif" width="480" alt="SC2">
   <br><br>
   <p><i>"My life for Aiur!"</i></p>
   <p><i>"We are the Swarm."</i></p>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <!-- Нижняя гифка -->
-  <img src="https://tenor.com/br6n9.gif" width="420">
+  <img src="https://media.tenor.com/19051731/starcraft-pylon.gif" width="420">
   <br><br>
   <p><b>"You must construct additional pylons."</b></p>
 </div>
