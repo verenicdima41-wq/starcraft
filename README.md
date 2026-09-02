@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/starcraft-bongo-cat-starcraft2-zerg-rage-gif-17337804" width="480" alt="SC2">
+  <img src="https://tenor.com/bvmcJ.gif" width="480" alt="SC2">
   <br><br>
   <p><i>"My life for Aiur!"</i></p>
   <p><i>"We are the Swarm."</i></p>
