@@ -9,7 +9,7 @@
 
 <div align="center">
   <!-- Главная гифка (Protoss / Artanis стиль) -->
-  <img src="https://media.tenor.com/3Y5QZQZQZQZAAAAC/starcraft-2-protoss.gif" width="480" alt="SC2">
+  <img src="https://tenor.com/ru/view/starcraft-ii-gif-13971314224233959383" width="480" alt="SC2">
   <br><br>
   <p><i>"My life for Aiur!"</i></p>
   <p><i>"We are the Swarm."</i></p>
@@ -54,7 +54,7 @@
 
 <div align="center">
   <!-- Нижняя гифка -->
-  <img src="[https://media.tenor.com/nHjL71BhLOgAAAAC/sleeping-cat.gif](https://tenor.com/ru/view/starcraft-bongo-cat-starcraft2-zerg-rage-gif-17337804)" width="420">
+  <img src="https://tenor.com/ru/view/pylon-starcraft-protoss-sketchfab-alinai-gif-19051731" width="420">
   <br><br>
   <p><b>"You must construct additional pylons."</b></p>
 </div>
